@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: 'Handle the problem of ample label space by using the Image-guided Feature Extractor on the MUSTI dataset'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Le Minh-Hung
 
 # Author notes (optional)
 author_notes:
